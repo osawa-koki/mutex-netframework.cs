@@ -1,4 +1,4 @@
 # mutex-netframework.cs
 
-mutexを実現するサンプルプロジェクト。  
+mutex(多重実行防止機能)を実現するサンプルプロジェクト。  
 .NET Framework版。  
